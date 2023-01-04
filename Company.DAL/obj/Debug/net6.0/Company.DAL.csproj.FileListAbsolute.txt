@@ -1,0 +1,28 @@
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.deps.json
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.runtimeconfig.json
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.dll
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.pdb
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.AssemblyReference.cache
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfoInputs.cache
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfo.cs
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.CoreCompileInputs.cache
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.dll
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\refint\Company.DAL.dll
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.pdb
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.genruntimeconfig.cache
+D:\Studing\net_course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\ref\Company.DAL.dll
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.deps.json
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.runtimeconfig.json
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.dll
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\bin\Debug\net6.0\Company.DAL.pdb
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.AssemblyReference.cache
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfoInputs.cache
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfo.cs
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.CoreCompileInputs.cache
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.dll
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\refint\Company.DAL.dll
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.pdb
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\Company.DAL.genruntimeconfig.cache
+D:\Studing\route .net course\MVC Assignments\assignment 1\Company.DAL\obj\Debug\net6.0\ref\Company.DAL.dll
