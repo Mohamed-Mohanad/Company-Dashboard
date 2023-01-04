@@ -1,0 +1,47 @@
+﻿@model EmployeeViewModel
+@inject IUnitOfWork unitOfWork
+@{
+    //var Departments = new SelectList(ViewBag.Departments, "Id", "Name");
+    var Departments = new SelectList(unitOfWork.DepartmentRepository.GetAll().Result, "Id", "Name");
+}
+<h1>Employee Details</h1>
+<br />
+<br />
+<img src="~/Files/Images/@Model.ImageName" class="img-circle" height="150" width="160" alt="Employee Img">
+<div class="form-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Age" class="col-form-label"></label>
+    <input asp-for="@Model.Age" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Address" class="col-form-label"></label>
+    <input asp-for="@Model.Address" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Salary" class="col-form-label"></label>
+    <input asp-for="@Model.Salary" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Email" class="col-form-label"></label>
+    <input asp-for="@Model.Email" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+    <input asp-for="@Model.PhoneNumber" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.DepartmentId" class="col-form-label"></label>
+    <input type="date" asp-for="@Model.DepartmentId" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.HireDate" class="col-form-label"></label>
+    <input type="date" asp-for="@Model.HireDate" class="form-control" readonly/>
+</div>
+<br />
+<div class="form-group">
+    <input asp-for="@Model.IsActive" type="checkbox" class="form-check-input" readonly />
+    <label asp-for="@Model.IsActive" class="form-check-label"></label>
+</div>
